@@ -6,7 +6,7 @@ import javax.persistence.Table;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
+// columns for database. Using Strings for all column but it can possibly change.
 @Entity
 @NoArgsConstructor
 @Data
