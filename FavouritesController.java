@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.aspringbootnow31.model.Favourites;
 import com.aspringbootnow31.repository.FavouriteRepository;
-
+// Mapping and creating rest API
 @RestController
 public class FavouritesController {
 
